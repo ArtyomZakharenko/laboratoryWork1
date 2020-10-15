@@ -1,3 +1,6 @@
+#include <stdio.h>
+#define SIZE 10
+
 void ShowArray (int *);
 void ReverseArray (int *);
 
